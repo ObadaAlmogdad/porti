@@ -41,7 +41,7 @@ const Conract = () =>{
                             <p className="text-white/60">asdasd asdasdasdasdasdasdasdasd
                             asdasdasdasdasdasdasdasdasdasd
                             </p>
-                            <div className="grid grid-cols-1 mb:grid-cols-2 gap-6">
+                            <div className="grid grid-cols-1 mb:grid-cols-2 sm:grid-cols-2 gap-6">
                                 <Input type="firstname" placeholder="Firstname"/>
                                 <Input type="lastname" placeholder="Lastname"/>
                                 <Input type="email" placeholder="Email address"/>
@@ -62,7 +62,7 @@ const Conract = () =>{
                                 </SelectContent>
                             </Select>
                             {/* text */}
-                            <Textarea className="h-[200px]" placeholder="Type your massage here." />
+                            <Textarea className="h-[150px]" placeholder="Type your massage here." />
                             <Button 
                                size="md"
                                className="max-w-40"

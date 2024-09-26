@@ -21,8 +21,8 @@ const about={
                 fieldValue:"3+ Years"
             },
             {
-                fieldName:"Skype",
-                fieldValue:"obada.01"
+                fieldName:"Linked in",
+                fieldValue:"Obada Almogdad"
             },
             {
                 fieldName:"Nationality",
@@ -45,25 +45,25 @@ const ex ={
     description:"asd asdff asdf asdf asdf asdf.",
     items:[
         {
-            company:"teac.",
+            company:"Free Lanser",
             position:"Full Stack Developer",
-            duration:"2022 -2023"
+            duration:"2022 -2024"
         },
-        {
-            company:"teac.",
-            position:"Full Stack Developer",
-            duration:"2022 -2023"
-        },
-        {
-            company:"teac.",
-            position:"Full Stack Developer",
-            duration:"2022 -2023"
-        },
-        {
-            company:"teac.",
-            position:"Full Stack Developer",
-            duration:"2022 -2023"
-        },
+        // {
+        //     company:"teac.",
+        //     position:"Full Stack Developer",
+        //     duration:"2022 -2023"
+        // },
+        // {
+        //     company:"teac.",
+        //     position:"Full Stack Developer",
+        //     duration:"2022 -2023"
+        // },
+        // {
+        //     company:"teac.",
+        //     position:"Full Stack Developer",
+        //     duration:"2022 -2023"
+        // },
         
     ]
 }
@@ -75,8 +75,8 @@ const education ={
     items:[
         {
             inst:"teac.",
-            degree:"Full Stack Developer",
-            duration:"2022 -2023"
+            degree:"Data Analyst",
+            duration:"2023 -2024"
         },
         {
             inst:"teac.",

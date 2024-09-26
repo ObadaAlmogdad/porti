@@ -17,11 +17,11 @@ import WorkSliderBtns from "@/components/WorkSliderBtns"
 const projects =[
     {
         num:"01",
-        category:"frontend",
-        title:"project 1",
-        description:" asd asf asd asd asd asd asd as d asd",
+        category:"Backend",
+        title:"School Mangment System",
+        description:"Developed a comprehensive school management system using Laravel to provide a robust backend architecture and RESTful API. The system streamlines essential administrative tasks, including student and teacher management, attendance tracking, curriculum planning, and exam management. The API facilitates seamless integration with various platforms, ensuring scalability and efficiency. The project demonstrates strong skills in backend development, database management, and API design, while delivering a user-friendly and maintainable solution for educational institutions.",
         stack:[
-            {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
+            {name:"Laravel"},  {name:"API"}, {name:"Database"},
         ],
         image:"/assets/work/thumb1.png",
         live:"",
@@ -30,8 +30,8 @@ const projects =[
     {
         num:"02",
         category:"frontend",
-        title:"project 1",
-        description:" asd asf asd asd asd asd asd as d asd",
+        title:"Dashbord asdasdf ",
+        description:"Created a fully responsive and interactive website using HTML, CSS, and JavaScript. The project involved designing a clean and user-friendly interface, with dynamic content powered by JavaScript for enhanced interactivity. Leveraged CSS for styling and ensuring the website's adaptability across different devices and screen sizes. The project showcases strong front-end development skills, focusing on user experience, responsive design, and modern web development practices.",
         stack:[
             {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
         ],
@@ -41,11 +41,11 @@ const projects =[
     },
     {
         num:"03",
-        category:"frontend",
-        title:"project 1",
-        description:" asd asf asd asd asd asd asd as d asd",
+        category:"Backend",
+        title:"Pharma",
+        description:"Designed and developed a Pharmacy Management System using Laravel to create a robust backend with a RESTful API. The system supports core pharmacy operations, including inventory management, prescription handling, supplier tracking, and sales processing. The API enables secure and efficient data management, ensuring smooth integration with front-end applications and third-party systems. ",
         stack:[
-            {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
+            {name:"Laravel"},  {name:"API"}, {name:"Database"},
         ],
         image:"/assets/work/thumb3.png",
         live:"",
@@ -55,7 +55,7 @@ const projects =[
         num:"04",
         category:"frontend",
         title:"project 1",
-        description:" asd asf asd asd asd asd asd as d asd",
+        description:"Created a fully responsive and interactive website using HTML, CSS, and JavaScript.",
         stack:[
             {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
         ],

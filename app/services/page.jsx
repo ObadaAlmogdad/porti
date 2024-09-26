@@ -12,19 +12,19 @@ const services =[
     },
     {
         num:"02",
-        title: "Back-end Development",
+        title: "Backend Development",
         description:"absd absd absd absd absd absd absd",
         href:""
     },
     {
         num:"03",
-        title: "Data-base Design",
+        title: "Database Design",
         description:"absd absd absd absd absd absd absd",
         href:""
     },
     {
         num:"04",
-        title: "Game Development",
+        title: "FrontEnd Development",
         description:"absd absd absd absd absd absd absd",
         href:""
     },
