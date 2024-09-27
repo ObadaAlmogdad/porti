@@ -6,27 +6,27 @@ import { delay, motion } from "framer-motion";
 const services =[
     {
         num:"01",
-        title: "Web Development",
-        description:"absd absd absd absd absd absd absd",
-        href:""
+        title: "Full Stack Development.",
+        description:"Is the process of developing both the frontend and the backend of a web application or website.",
+        href:"https://www.linkedin.com"
     },
     {
         num:"02",
         title: "Backend Development",
-        description:"absd absd absd absd absd absd absd",
-        href:""
+        description:"Is the part of application that manages servers, databases, and processes user requests.",
+        href:"https://www.linkedin.com"
     },
     {
         num:"03",
-        title: "Database Design",
-        description:"absd absd absd absd absd absd absd",
-        href:""
+        title: "Database Management",
+        description:"involves organizing, storing, and accessing data efficiently. It includes creating, maintaining, and securing databases, ensuring data is available, consistent, and reliable for users and applications.",
+        href:"https://www.linkedin.com"
     },
     {
         num:"04",
         title: "FrontEnd Development",
-        description:"absd absd absd absd absd absd absd",
-        href:""
+        description:"is the part of a website or application that users see and interact with. It involves designing the layout, buttons, and visuals, to create a smooth and responsive user experience.",
+        href:"https://www.linkedin.com"
     },
 ];
 

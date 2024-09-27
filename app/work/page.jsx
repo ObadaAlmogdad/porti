@@ -19,19 +19,32 @@ const projects =[
         num:"01",
         category:"Backend",
         title:"School Mangment System",
-        description:"Developed a comprehensive school management system using Laravel to provide a robust backend architecture and RESTful API. The system streamlines essential administrative tasks, including student and teacher management, attendance tracking, curriculum planning, and exam management. The API facilitates seamless integration with various platforms, ensuring scalability and efficiency. The project demonstrates strong skills in backend development, database management, and API design, while delivering a user-friendly and maintainable solution for educational institutions.",
+        description:"Developed a school management system using Laravel to provide a robust backend architecture and RESTful API. The system streamlines essential administrative tasks, including student and teacher management, attendance tracking, curriculum planning, and exam management. The project demonstrates strong skills in backend development, database management, and API design.",
         stack:[
             {name:"Laravel"},  {name:"API"}, {name:"Database"},
         ],
-        image:"/assets/work/thumb1.png",
+        image:"/assets/work/12.png",
         live:"",
         githup:"",
     },
     {
         num:"02",
-        category:"frontend",
-        title:"Dashbord asdasdf ",
-        description:"Created a fully responsive and interactive website using HTML, CSS, and JavaScript. The project involved designing a clean and user-friendly interface, with dynamic content powered by JavaScript for enhanced interactivity. Leveraged CSS for styling and ensuring the website's adaptability across different devices and screen sizes. The project showcases strong front-end development skills, focusing on user experience, responsive design, and modern web development practices.",
+        category:"Backend",
+        title:"Pharma",
+        description:"Designed and developed a Pharmacy Management System using Laravel to create a robust backend with a RESTful API. The system supports core pharmacy operations, including inventory management, prescription handling, supplier tracking, and sales processing. The API enables secure and efficient data management, ensuring smooth integration with front-end applications and third-party systems. ",
+        stack:[
+            {name:"Laravel"},  {name:"API"}, {name:"Database"},
+        ],
+        image:"/assets/work/11.png",
+        live:"",
+        githup:"",
+    },
+
+    {
+        num:"03",
+        category:"Game",
+        title:"Math game",
+        description:"Created a game in a website using HTML, CSS, and JavaScript. The game is beneficial in both educational and recreational fields, as it improves the user's speed in performing mathematical operations and creates a competitive atmosphere for breaking records.",
         stack:[
             {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
         ],
@@ -40,19 +53,43 @@ const projects =[
         githup:"",
     },
     {
-        num:"03",
-        category:"Backend",
-        title:"Pharma",
-        description:"Designed and developed a Pharmacy Management System using Laravel to create a robust backend with a RESTful API. The system supports core pharmacy operations, including inventory management, prescription handling, supplier tracking, and sales processing. The API enables secure and efficient data management, ensuring smooth integration with front-end applications and third-party systems. ",
+        num:"04",
+        category:"AI",
+        title:"soko farmar",
+        description:"",
         stack:[
-            {name:"Laravel"},  {name:"API"}, {name:"Database"},
+            {name:"Java"},  {name:"AI"},
         ],
         image:"/assets/work/thumb3.png",
         live:"",
         githup:"",
     },
     {
-        num:"04",
+        num:"05",
+        category:"Frontend",
+        title:"Tic Tac Toe",
+        description:"Create game with Next.js.",
+        stack:[
+            {name:"Next.js"},  {name:"Css 3"},
+        ],
+        image:"/assets/work/xo.png",
+        live:"",
+        githup:"",
+    },
+    {
+        num:"06",
+        category:"Frontend",
+        title:"Dashboard",
+        description:"I completed this project by applying what I learned from Osama Elzero's channel and refining my skills in HTML, CSS, and JavaScript..",
+        stack:[
+            {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
+        ],
+        image:"/assets/work/d1.png",
+        live:"",
+        githup:"",
+    },
+    {
+        num:"07",
         category:"frontend",
         title:"project 1",
         description:"Created a fully responsive and interactive website using HTML, CSS, and JavaScript.",
@@ -88,6 +125,7 @@ const Work = () =>{
                            <h2 className="text-[42px] font-blod leadinng-none text-white group-hover:text-accent transition-all duration-500 capitalize">
                             {project.category} project
                            </h2>
+                           <p className="text-white/60 ">{project.title}</p>
                            <p className="text-white/60 ">{project.description}</p>
 
                            <ul className="flex gap-4 ">

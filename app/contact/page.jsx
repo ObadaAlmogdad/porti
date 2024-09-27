@@ -27,7 +27,7 @@ const info =[
     },
 ];
 
-const Conract = () =>{
+const Contact = () =>{
     return (
         <motion.section initial={{ opacity: 0 }} animate={{ opacity: 1 ,transition:{delay:2.1,duration:0.4, ease:"easeIn"}}}
                         className="py-6">
@@ -38,9 +38,9 @@ const Conract = () =>{
                             <h3 className="text-4xl text-accent">
                                 let's work together
                             </h3>
-                            <p className="text-white/60">asdasd asdasdasdasdasdasdasdasd
+                            {/* <p className="text-white/60">asdasd asdasdasdasdasdasdasdasd
                             asdasdasdasdasdasdasdasdasdasd
-                            </p>
+                            </p> */}
                             <div className="grid grid-cols-1 mb:grid-cols-2 sm:grid-cols-2 gap-6">
                                 <Input type="firstname" placeholder="Firstname"/>
                                 <Input type="lastname" placeholder="Lastname"/>
@@ -96,4 +96,4 @@ const Conract = () =>{
     )
 }
 
-export default Conract
+export default Contact

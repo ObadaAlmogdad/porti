@@ -16,8 +16,7 @@ const Home =() => {
               Hello I'm <br /><span className="text-accent">Obada Almogdad</span>
             </h1>
             <p className="max-w-[500px] mb-6 text-white/80">
-            As a Software Engineering, I am passionate about developing efficient and innovative software solutions. I have honed my skills in various programming languages and technologies, and I am driven by a desire to continuously learn and adapt in this ever-evolving field.</p>
-
+            As a Software Engineer, I am passionate about creating efficient and innovative software solutions. I continuously hone my skills in various programming languages and technologies, driven by a desire to learn and adapt in this evolving field.</p>
             <div className="flex flex-col xl:flex-row items-center gap-8 ">
               <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
                 <span>Download CV</span>
