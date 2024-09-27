@@ -8,25 +8,25 @@ const services =[
         num:"01",
         title: "Full Stack Development.",
         description:"Is the process of developing both the frontend and the backend of a web application or website.",
-        href:"https://www.linkedin.com"
+        href:"https://www.linkedin.com/in/obada-almogdad-79a090309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
         num:"02",
         title: "Backend Development",
         description:"Is the part of application that manages servers, databases, and processes user requests.",
-        href:"https://www.linkedin.com"
+        href:"https://www.linkedin.com/in/obada-almogdad-79a090309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
         num:"03",
         title: "Database Management",
         description:"involves organizing, storing, and accessing data efficiently. It includes creating, maintaining, and securing databases, ensuring data is available, consistent, and reliable for users and applications.",
-        href:"https://www.linkedin.com"
+        href:"https://www.linkedin.com/in/obada-almogdad-79a090309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
         num:"04",
         title: "FrontEnd Development",
         description:"is the part of a website or application that users see and interact with. It involves designing the layout, buttons, and visuals, to create a smooth and responsive user experience.",
-        href:"https://www.linkedin.com"
+        href:"https://www.linkedin.com/in/obada-almogdad-79a090309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
 ];
 

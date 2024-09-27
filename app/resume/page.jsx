@@ -74,30 +74,30 @@ const education = {
     description: "I hold a degree in Software Engineering, complemented by various courses from online platforms such as Coursera and Udemy. These courses have enhanced my skills in programming, software development, and modern technologies, allowing me to stay updated in this dynamic field.",
     items: [
         {
-            inst: "teac.",
+            inst: "Coursera",
             degree: "Data Analyst",
             duration: "2023 -2024"
         },
         {
-            inst: "teac.",
-            degree: "Full Stack Developer",
-            duration: "2022 -2023"
+            inst: "Damascuse Univarcty",
+            degree: "Software Engineer",
+            duration: "2020 -2025"
         },
         {
-            inst: "teac.",
+            inst: "Udmy",
             degree: "Full Stack Developer",
-            duration: "2022 -2023"
+            duration: "2021 -2022"
         },
         {
-            inst: "teac.",
-            degree: "Full Stack Developer",
+            inst: "Coursera",
+            degree: "Backend Developer",
             duration: "2022 -2023"
         },
-        {
-            inst: "teac.",
-            degree: "Full Stack Developer",
-            duration: "2022 -2023"
-        },
+        // {
+        //     inst: "teac.",
+        //     degree: "Full Stack Developer",
+        //     duration: "2022 -2023"
+        // },
 
     ]
 }

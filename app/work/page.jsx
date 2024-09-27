@@ -24,8 +24,8 @@ const projects =[
             {name:"Laravel"},  {name:"API"}, {name:"Database"},
         ],
         image:"/assets/work/12.png",
-        live:"",
-        githup:"",
+        live:"https://github.com/ObadaAlmogdad",
+        githup:"https://github.com/ObadaAlmogdad",
     },
     {
         num:"02",
@@ -48,21 +48,21 @@ const projects =[
         stack:[
             {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
         ],
-        image:"/assets/work/thumb2.png",
-        live:"",
-        githup:"",
+        image:"/assets/work/Screenshot_2.png",
+        live:"https://github.com/ObadaAlmogdad/math-game-by-js/",
+        githup:"https://github.com/ObadaAlmogdad/math-game-by-js/",
     },
     {
         num:"04",
         category:"AI",
         title:"soko farmar",
-        description:"",
+        description:"I have developed my programming skills through the creation of this project, applying Java language concepts, as well as implementing some well-known search algorithms like BFS, DFS, and UCS.",
         stack:[
             {name:"Java"},  {name:"AI"},
         ],
-        image:"/assets/work/thumb3.png",
-        live:"",
-        githup:"",
+        image:"/assets/work/sokofarm.png",
+        live:"https://github.com/ObadaAlmogdad/soko_farm_game",
+        githup:"https://github.com/ObadaAlmogdad/soko_farm_game",
     },
     {
         num:"05",
@@ -73,8 +73,8 @@ const projects =[
             {name:"Next.js"},  {name:"Css 3"},
         ],
         image:"/assets/work/xo.png",
-        live:"",
-        githup:"",
+        live:"https://github.com/ObadaAlmogdad",
+        githup:"https://github.com/ObadaAlmogdad",
     },
     {
         num:"06",
@@ -85,8 +85,8 @@ const projects =[
             {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
         ],
         image:"/assets/work/d1.png",
-        live:"",
-        githup:"",
+        live:"https://github.com/ObadaAlmogdad",
+        githup:"https://github.com/ObadaAlmogdad",
     },
     {
         num:"07",
@@ -97,8 +97,8 @@ const projects =[
             {name:"Html 5"},  {name:"Css 3"}, {name:"Js"},
         ],
         image:"/assets/work/thumb1.png",
-        live:"",
-        githup:"",
+        live:"https://github.com/ObadaAlmogdad",
+        githup:"https://github.com/ObadaAlmogdad",
     },
 
 ];
