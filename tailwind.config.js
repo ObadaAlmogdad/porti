@@ -16,7 +16,7 @@ module.exports = {
 		sm:"640px",
 		md:"768px",
 		lg:"960px",
-		xl:"1000px",
+		xl:"900px",
 	},
 	fontFamily:{
 		primary: "var(--font-jetbrainsMono)",
