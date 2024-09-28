@@ -1,7 +1,7 @@
 "use client";
 import { FaHtml5, FaCss3, FaJs, FaLaravel, FaReact, FaNodeJs, FaPhp, FaJava } from "react-icons/fa";
 import {
-    SiTailwindcss, SiNextdotjs, SiLaravel
+    SiTailwindcss, SiNextdotjs, SiLaravel,SiCplusplus,SiCsharp
 } from "react-icons/si";
 
 const about = {
@@ -133,6 +133,14 @@ const skills = {
         {
             icon: <FaJava />,
             name: "Java",
+        },
+        {
+            icon: <SiCplusplus />,
+            name: "C++",
+        },
+        {
+            icon: <SiCsharp />,
+            name: "C#",
         },
         {
             icon: <SiTailwindcss />,
