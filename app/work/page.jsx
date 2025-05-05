@@ -28,6 +28,18 @@ const projects = [
     },
     {
         num: "02",
+        category: "Frontend",
+        title: "technical institute",
+        description: "technical institute in daraa syria",
+        stack: [
+            { name: "Next" }, { name: "react" }, { name: "Talwand" },
+        ],
+        image: "/assets/work/image.png",
+        live: "https://technical-institute.vercel.app",
+        githup: "https://github.com/ObadaAlmogdad/Sahtak-AI",
+    },
+    {
+        num: "03",
         category: "Backend",
         title: "School Mangment System",
         description: "Developed a school management system using Laravel to provide a robust backend architecture and RESTful API. The system streamlines essential administrative tasks, including student and teacher management, attendance tracking, curriculum planning, and exam management. The project demonstrates strong skills in backend development, database management, and API design.",
@@ -39,7 +51,7 @@ const projects = [
         githup: "https://github.com/ObadaAlmogdad",
     },
     {
-        num: "03",
+        num: "04",
         category: "Backend",
         title: "Pharma",
         description: "Designed and developed a Pharmacy Management System using Laravel to create a robust backend with a RESTful API. The system supports core pharmacy operations, including inventory management, prescription handling, supplier tracking, and sales processing. The API enables secure and efficient data management, ensuring smooth integration with front-end applications and third-party systems. ",
@@ -52,7 +64,7 @@ const projects = [
     },
 
     {
-        num: "04",
+        num: "05",
         category: "Game",
         title: "Math game",
         description: "Created a game in a website using HTML, CSS, and JavaScript. The game is beneficial in both educational and recreational fields, as it improves the user's speed in performing mathematical operations and creates a competitive atmosphere for breaking records.",
@@ -64,7 +76,7 @@ const projects = [
         githup: "https://github.com/ObadaAlmogdad/math-game-by-js/",
     },
     {
-        num: "05",
+        num: "06",
         category: "AI",
         title: "soko farmar",
         description: "I have developed my programming skills through the creation of this project, applying Java language concepts, as well as implementing some well-known search algorithms like BFS, DFS, and UCS.",
@@ -76,7 +88,7 @@ const projects = [
         githup: "https://github.com/ObadaAlmogdad/soko_farm_game",
     },
     {
-        num: "06",
+        num: "07",
         category: "Frontend",
         title: "Tic Tac Toe",
         description: "Create game with Next.js.",
@@ -88,7 +100,7 @@ const projects = [
         githup: "https://github.com/ObadaAlmogdad",
     },
     {
-        num: "07",
+        num: "08",
         category: "Frontend",
         title: "Dashboard",
         description: "I completed this project by applying what I learned from Osama Elzero's channel and refining my skills in HTML, CSS, and JavaScript..",
@@ -100,7 +112,7 @@ const projects = [
         githup: "https://github.com/ObadaAlmogdad",
     },
     {
-        num: "08",
+        num: "09",
         category: "frontend",
         title: "project 1",
         description: "Created a fully responsive and interactive website using HTML, CSS, and JavaScript.",
