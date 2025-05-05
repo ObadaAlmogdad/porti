@@ -34,7 +34,7 @@ const projects = [
         stack: [
             { name: "Next" }, { name: "react" }, { name: "Talwand" },
         ],
-        image: "/assets/work/image.png",
+        image: "/assets/work/image1.png",
         live: "https://technical-institute.vercel.app",
         githup: "https://github.com/ObadaAlmogdad/Sahtak-AI",
     },
